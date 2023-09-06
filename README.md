@@ -1,6 +1,6 @@
 # GroupChat App (MERN Stack)
 
-![App Screenshot](screenshot.png)
+
 
 A real-time Group Chat application built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
